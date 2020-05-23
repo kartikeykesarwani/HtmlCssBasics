@@ -1,0 +1,29 @@
+body{
+	background-image: url(sandraa.jpg);
+	background-size: cover;
+}
+h2{
+	color: blue;
+}
+
+.text{
+	border: 5px solid rgba(255,176,170,0.5); 
+	text-decoration: uppercase;
+	line-height: 20px;
+	font-style: italic;
+	font-size: 150%;
+	font-family: "Times New Roman";
+}
+img{
+	float: left;
+}
+footer{
+	clear:both;
+	text-align: center;
+	font-size: 200%;
+	background: pink;
+
+}
+.buffer{
+	height: 400px;
+}

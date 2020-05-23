@@ -1,0 +1,41 @@
+body{
+	background-image: url(sandraa.jpg);
+	background-size: cover;
+}
+
+h2 p{
+	color: #AA4139;
+	text-align: center;
+	border: 5px solid rgb(255,176,170);
+	cursor: pointer;
+}
+p{
+	color:green;
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+	margin: 2px;
+}
+.webtext{
+	border: 5px solid purple;
+}
+.active:hover{
+	border: 5px dashed blue;
+}
+.passive:hover{
+	border: 5px dashed yellow;
+}
+.uuu:hover{
+	border: 5px dashed brown;
+}
+.vvv:hover{
+	border: 5px dashed orange;
+}
+#div1{
+	background: pink;
+}
+.hh{
+	text-align: right;
+}
